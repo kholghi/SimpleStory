@@ -3,3 +3,4 @@ This is a simple story and goes like this:
 First line
 Second line
 Today is Thursday!
+I like thursdays more than fridays.
