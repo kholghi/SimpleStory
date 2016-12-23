@@ -6,3 +6,4 @@ Today is Thursday!
 I like thursdays more than fridays.
 Fridays are also good days.
 The last line for now
+The End
